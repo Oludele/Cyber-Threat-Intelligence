@@ -1,4 +1,17 @@
+IOC Indicators of Compromise
+regexp for 20 chars with .dat extension= \/\d[a-z]{20}\.dat
+
+Network Based IOC - Pivoting
+
 https://pulsedive.com/
 https://www.virustotal.com/gui/home/upload
 http://research.domaintools.com/iris/   ......Commercial
 https://login.umbrella.com/      ............ Commercial
+
+
+Host-Based Pivoting
+
+Network-Based IOC
+
+Splunk
+
